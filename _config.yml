@@ -1,0 +1,16 @@
+title: We Used to be Fun...
+description: A podcast about our family of four where we discuss parenting, life events, argue about stuff, and hear from our adorable children.
+author: Levi and Amy
+email: levi.j.elston@gmail.com
+lang: en-us
+copyright: "&#x2117; &amp; &#xA9; 2020"
+logo: /assets/img/WeUsedToBeFun_logo_large.png
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
