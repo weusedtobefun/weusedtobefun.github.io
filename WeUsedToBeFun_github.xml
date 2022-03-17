@@ -1,0 +1,244 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>We Used to be Fun...</title>
+<link>https://weusedtobefun.github.io</link>
+<language>en-us</language>
+<atom:link href="https://weusedtobefun.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+<copyright>Levi Elston</copyright>
+<itunes:subtitle>A podcast about our family of four where we discuss parenting, life events, argue about stuff, and hear from our adorable children.</itunes:subtitle>
+<itunes:author>Levi and Amy</itunes:author>
+<itunes:summary>A podcast about our family of four where we discuss parenting, life events, argue about stuff, and hear from our adorable children.</itunes:summary>
+<itunes:keywords>family</itunes:keywords>
+<description>A podcast about our family of four where we discuss parenting, life events, argue about stuff, and hear from our adorable children.</description>
+<itunes:owner>
+<itunes:name>Levi and Amy</itunes:name>
+<itunes:email>levi.j.elston@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:image href="https://weusedtobefun.github.io/WeUsedToBeFun_logo_large.png"/>
+<itunes:category text="Kids & Family"></itunes:category>
+<itunes:type>episodic</itunes:type>
+
+<spotify:countryOfOrigin>us</spotify:countryOfOrigin>
+
+<item>
+<title>We're back!</title>
+<itunes:title>We're back!</itunes:title>
+<itunes:author>Levi and Amy</itunes:author>
+<itunes:subtitle>After essentially a one year hiatus, we're back! Janey joins us as a special guest, we catch up on a year of pandemic life in a matter of minutes, talk about The Mandalorian sort of, and play a game of "mimic" where we all try to mimic random sounds. Thi...</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ <p>After essentially a one year hiatus, we're back! Janey joins us as a special guest, we catch up on a year of pandemic life in a matter of minutes, talk about The Mandalorian sort of, and play a game of "mimic" where we all try to mimic random sounds. This episode was recorded in mid-Feb 2021. Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</itunes:summary>
+<description>
+<![CDATA[ <p>After essentially a one year hiatus, we're back! Janey joins us as a special guest, we catch up on a year of pandemic life in a matter of minutes, talk about The Mandalorian sort of, and play a game of "mimic" where we all try to mimic random sounds. This episode was recorded in mid-Feb 2021. Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</description>
+<enclosure url="https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep018.mp3" length="54158166" type="audio/mpeg"/>
+<itunes:duration>53:01</itunes:duration>
+<itunes:episode>18</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep018.mp3</guid>
+<pubDate>Sat, 13 Mar 2021 22:45:53 -0500</pubDate>
+<content:encoded>
+<![CDATA[ <p>After essentially a one year hiatus, we're back! Janey joins us as a special guest, we catch up on a year of pandemic life in a matter of minutes, talk about The Mandalorian sort of, and play a game of "mimic" where we all try to mimic random sounds. This episode was recorded in mid-Feb 2021. Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</content:encoded>
+</item>
+
+<item>
+<title>4th of July Special Kids Edition</title>
+<itunes:title>4th of July Special Kids Edition</itunes:title>
+<pubDate>Sat, 04 Jul 2020 16:24:19 -0500</pubDate>
+<guid isPermaLink="false">https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep017.mp3</guid>
+<description>
+<![CDATA[ <p>In this special edition, Amy chats with the kids about Independence Day (the holiday, not the movie), their thoughts on the coronavirus pandemic, daddy's work, their favorite books, Star Wars characters, vacation discussion, and favorite songs. Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</description>
+<content:encoded>
+<![CDATA[ <p>In this special edition, Amy chats with the kids about Independence Day (the holiday, not the movie), their thoughts on the coronavirus pandemic, daddy's work, their favorite books, Star Wars characters, vacation discussion, and favorite songs. Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</content:encoded>
+<enclosure url="https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep017.mp3" length="22919262" type="audio/mpeg"/>
+<itunes:subtitle>In this special edition, Amy chats with the kids about Independence Day (the holiday, not the movie), their thoughts on the coronavirus pandemic, daddy's work, their favorite books, Star Wars characters, vacation discussion, and favorite songs.Comments o...</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ <p>In this special edition, Amy chats with the kids about Independence Day (the holiday, not the movie), their thoughts on the coronavirus pandemic, daddy's work, their favorite books, Star Wars characters, vacation discussion, and favorite songs. Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</itunes:summary>
+<itunes:author>Levi and Amy</itunes:author>
+<itunes:duration>23:28</itunes:duration>
+<itunes:episode>17</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+<item>
+<title>Good ole Family Podcasting, part 3</title>
+<itunes:title>Good ole Family Podcasting, part 3</itunes:title>
+<pubDate>Fri, 06 Mar 2020 21:24:56 -0500</pubDate>
+<guid isPermaLink="false">https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep016.mp3</guid>
+<description>
+<![CDATA[ <p>The third and final episode of this series. Mostly more rapid fire, but it was getting pretty late and everyone was a little tipsy, hungry, and volume levels varied significantly! Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</description>
+<content:encoded>
+<![CDATA[ <p>The third and final episode of this series. Mostly more rapid fire, but it was getting pretty late and everyone was a little tipsy, hungry, and volume levels varied significantly! Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</content:encoded>
+<enclosure url="https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep016.mp3" length="23390670" type="audio/mpeg"/>
+<itunes:subtitle>The third and final episode of this series. Mostly more rapid fire, but it was getting pretty late and everyone was a little tipsy, hungry, and volume levels varied significantly! Comments or questions? twitter.com/weusedtobefun</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ <p>The third and final episode of this series. Mostly more rapid fire, but it was getting pretty late and everyone was a little tipsy, hungry, and volume levels varied significantly! Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</itunes:summary>
+<itunes:author>Levi and Amy</itunes:author>
+<itunes:duration>22:56</itunes:duration>
+<itunes:episode>16</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+<item>
+<title>Good ole Family Podcasting, part 2</title>
+<itunes:title>Good ole Family Podcasting, part 2</itunes:title>
+<pubDate>Wed, 05 Feb 2020 22:51:59 -0500</pubDate>
+<guid isPermaLink="false">https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep015.mp3</guid>
+<description>
+<![CDATA[ <p>The Janey laughs edition. Why is Levi so great? Let us count the ways... Also, some fun "rapid fire" questions, Janey gets drunk, we discuss Cooler Ranch Doritos, do you cake or pie, and we compare birth stats. Enjoy! Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</description>
+<content:encoded>
+<![CDATA[ <p>The Janey laughs edition. Why is Levi so great? Let us count the ways... Also, some fun "rapid fire" questions, Janey gets drunk, we discuss Cooler Ranch Doritos, do you cake or pie, and we compare birth stats. Enjoy! Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</content:encoded>
+<enclosure url="https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep015.mp3" length="79806222" type="audio/mpeg"/>
+<itunes:subtitle>The Janey laughs edition. Why is Levi so great? Let us count the ways... Also, some fun "rapid fire" questions, Janey gets drunk, we discuss Cooler Ranch Doritos, do you cake or pie, and we compare birth stats. Enjoy!Comments or questions? twitter.com/we...</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ <p>The Janey laughs edition. Why is Levi so great? Let us count the ways... Also, some fun "rapid fire" questions, Janey gets drunk, we discuss Cooler Ranch Doritos, do you cake or pie, and we compare birth stats. Enjoy! Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</itunes:summary>
+<itunes:author>Levi and Amy</itunes:author>
+<itunes:duration>01:17:56</itunes:duration>
+<itunes:episode>15</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+<item>
+<title>Good ole Family Podcasting, part 1</title>
+<itunes:title>Good ole Family Podcasting, part 1</itunes:title>
+<pubDate>Mon, 13 Jan 2020 23:28:07 -0500</pubDate>
+<guid isPermaLink="false">https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep014.mp3</guid>
+<description>
+<![CDATA[ <p>Grandma Laurie, Aunt Kelly, Aunt Janey, and cousin Emma join our podcast for some fun and entertaining discussion, but then it gets real, then it doesn't, then it does again. Such a rollercoaster of emotion! Also, Janey laughs a lot. Recorded in mid-December 2019. Tune in next time for part 2! Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</description>
+<content:encoded>
+<![CDATA[ <p>Grandma Laurie, Aunt Kelly, Aunt Janey, and cousin Emma join our podcast for some fun and entertaining discussion, but then it gets real, then it doesn't, then it does again. Such a rollercoaster of emotion! Also, Janey laughs a lot. Recorded in mid-December 2019. Tune in next time for part 2! Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</content:encoded>
+<enclosure url="https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep014.mp3" length="48235158" type="audio/mpeg"/>
+<itunes:subtitle>Grandma Laurie, Aunt Kelly, Aunt Janey, and cousin Emma join our podcast for some fun and entertaining discussion, but then it gets real, then it doesn't, then it does again. Such a rollercoaster of emotion! Also, Janey laughs a lot. Recorded in mid-Dece...</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ <p>Grandma Laurie, Aunt Kelly, Aunt Janey, and cousin Emma join our podcast for some fun and entertaining discussion, but then it gets real, then it doesn't, then it does again. Such a rollercoaster of emotion! Also, Janey laughs a lot. Recorded in mid-December 2019. Tune in next time for part 2! Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</itunes:summary>
+<itunes:author>Levi and Amy</itunes:author>
+<itunes:duration>48:29</itunes:duration>
+<itunes:episode>14</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+<item>
+<title>Not So Rapid Fire</title>
+<itunes:title>Not So Rapid Fire</itunes:title>
+<pubDate>Tue, 07 Jan 2020 22:30:59 -0500</pubDate>
+<guid isPermaLink="false">https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep013.mp3</guid>
+<description>
+<![CDATA[ <p>Amy convinces Levi to drink hard liquor and answer questions... never again. We discuss some political contenders (FYI, this was recorded a couple of months ago, but just finally got it edited), then we ask the kids about our summer vacation, activities, school, etc. Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</description>
+<content:encoded>
+<![CDATA[ <p>Amy convinces Levi to drink hard liquor and answer questions... never again. We discuss some political contenders (FYI, this was recorded a couple of months ago, but just finally got it edited), then we ask the kids about our summer vacation, activities, school, etc. Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</content:encoded>
+<enclosure url="https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep013.mp3" length="57775014" type="audio/mpeg"/>
+<itunes:subtitle>Amy convinces Levi to drink hard liquor and answer questions... never again. We discuss some political contenders (FYI, this was recorded a couple of months ago, but just finally got it edited), then we ask the kids about our summer vacation, activities,...</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ <p>Amy convinces Levi to drink hard liquor and answer questions... never again. We discuss some political contenders (FYI, this was recorded a couple of months ago, but just finally got it edited), then we ask the kids about our summer vacation, activities, school, etc. Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</itunes:summary>
+<itunes:author>Levi and Amy</itunes:author>
+<itunes:duration>46:27</itunes:duration>
+<itunes:episode>13</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+<item>
+<title>The deuce message.</title>
+<itunes:title>The deuce message.</itunes:title>
+<pubDate>Wed, 13 Feb 2019 08:54:30 -0500</pubDate>
+<guid isPermaLink="false">https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep004.mp3</guid>
+<description>
+<![CDATA[ <p>We're on iTunes! Amy gives an update on the WSU strike (which is over now, but wasn't as of this recording). Charlie Brown is hilarious. We play a game of "what words we'd use to describe eachother", which goes exactly as we should've expected, and Kyla talks about her favorite foods. Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</description>
+<content:encoded>
+<![CDATA[ <p>We're on iTunes! Amy gives an update on the WSU strike (which is over now, but wasn't as of this recording). Charlie Brown is hilarious. We play a game of "what words we'd use to describe eachother", which goes exactly as we should've expected, and Kyla talks about her favorite foods. Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</content:encoded>
+<enclosure url="https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep004.mp3" length="81132846" type="audio/mpeg"/>
+<itunes:subtitle>We're on iTunes! Amy gives an update on the WSU strike (which is over now, but wasn't as of this recording). Charlie Brown is hilarious. We play a game of "what words we'd use to describe eachother", which goes exactly as we should've expected, and Kyla talks about her favorite foods.</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ <p>We're on iTunes! Amy gives an update on the WSU strike (which is over now, but wasn't as of this recording). Charlie Brown is hilarious. We play a game of "what words we'd use to describe eachother", which goes exactly as we should've expected, and Kyla talks about her favorite foods. Comments or questions? twitter.com/weusedtobefun</p> ]]>
+</itunes:summary>
+<itunes:author>Levi and Amy</itunes:author>
+<itunes:duration>50:40</itunes:duration>
+<itunes:episode>4</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+<item>
+<title>That guy, he's a douche.</title>
+<itunes:title>That guy, he's a douche.</itunes:title>
+<pubDate>Tue, 05 Feb 2019 23:00:12 -0500</pubDate>
+<guid isPermaLink="false">https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep003.mp3</guid>
+<description>
+<![CDATA[ <p>What are bad habits that we selfishly want to let our kids do, even if its not good for them? What are our least favorite parenting responsibilities, and favorite things to do as a family? We eat some kettle cooked potato chips whilst podcasting, argue about what age kids should get a tv and/or cell phone, Amy trash talks Steve Jobs (may he rest in peace), and the kids do animal impressions.</p> <p>Comments or questions you want us to tackle? twitter.com/weusedtobefun</p> ]]>
+</description>
+<content:encoded>
+<![CDATA[ <p>What are bad habits that we selfishly want to let our kids do, even if its not good for them? What are our least favorite parenting responsibilities, and favorite things to do as a family? We eat some kettle cooked potato chips whilst podcasting, argue about what age kids should get a tv and/or cell phone, Amy trash talks Steve Jobs (may he rest in peace), and the kids do animal impressions.</p> <p>Comments or questions you want us to tackle? twitter.com/weusedtobefun</p> ]]>
+</content:encoded>
+<enclosure url="https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep003.mp3" length="72501596" type="audio/mpeg"/>
+<itunes:subtitle>What are bad habits that we selfishly want to let our kids do, even if its not good for them? What are our least favorite parenting responsibilities, and favorite things to do as a family? We eat some kettle cooked potato chips whilst podcasting, argue about what age kids should get a tv and/or cell phone, Amy trash talks Steve Jobs (may he rest in peace), and the kids do animal impressions.</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ <p>What are bad habits that we selfishly want to let our kids do, even if its not good for them? What are our least favorite parenting responsibilities, and favorite things to do as a family? We eat some kettle cooked potato chips whilst podcasting, argue about what age kids should get a tv and/or cell phone, Amy trash talks Steve Jobs (may he rest in peace), and the kids do animal impressions.</p> <p>Comments or questions you want us to tackle? twitter.com/weusedtobefun</p> ]]>
+</itunes:summary>
+<itunes:author>Levi and Amy</itunes:author>
+<itunes:duration>44:13</itunes:duration>
+<itunes:episode>3</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+<item>
+<title>Sh*% got real</title>
+<itunes:title>Sh*% got real</itunes:title>
+<pubDate>Tue, 29 Jan 2019 19:04:06 -0500</pubDate>
+<guid isPermaLink="false">https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep002.mp3</guid>
+<description>
+<![CDATA[ <p>Things get serious in episode 2. Amy discusses the WSU strike, we go over some parenting triumphs and fails, and the kids do impressions of movie characters.</p> ]]>
+</description>
+<content:encoded>
+<![CDATA[ <p>Things get serious in episode 2. Amy discusses the WSU strike, we go over some parenting triumphs and fails, and the kids do impressions of movie characters.</p> ]]>
+</content:encoded>
+<enclosure url="https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep002.mp3" length="56363139" type="audio/mpeg"/>
+<itunes:subtitle>Things get serious in episode 2. Amy discusses the WSU strike, we go over some parenting triumphs and fails, and the kids do impressions of movie characters.</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ <p>Things get serious in episode 2. Amy discusses the WSU strike, we go over some parenting triumphs and fails, and the kids do impressions of movie characters.</p> ]]>
+</itunes:summary>
+<itunes:author>Levi and Amy</itunes:author>
+<itunes:duration>34:06</itunes:duration>
+<itunes:episode>2</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+<item>
+<title>Our first episode!</title>
+<itunes:title>Our first episode!</itunes:title>
+<pubDate>Sun, 27 Jan 2019 21:29:41 -0500</pubDate>
+<guid isPermaLink="false">https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep001.mp3</guid>
+<description>
+<![CDATA[ <p>Let's talk about why and how are we going to do this podcast, some dogs we've had, horses, and an in-depth child review of Mulan II (2004).</p> ]]>
+</description>
+<content:encoded>
+<![CDATA[ <p>Let's talk about why and how are we going to do this podcast, some dogs we've had, horses, and an in-depth child review of Mulan II (2004).</p> ]]>
+</content:encoded>
+<enclosure url="https://weusedtobefun.github.io/episode_audio/WeUsedToBeFun_ep001.mp3" length="54150657" type="audio/mpeg"/>
+<itunes:subtitle>Let's talk about why and how are we going to do this podcast, some dogs we've had, horses, and an in-depth child review of Mulan II (2004).</itunes:subtitle>
+<itunes:summary>
+<![CDATA[ <p>Let's talk about why and how are we going to do this podcast, some dogs we've had, horses, and an in-depth child review of Mulan II (2004).</p> ]]>
+</itunes:summary>
+<itunes:author>Levi and Amy</itunes:author>
+<itunes:duration>32:29</itunes:duration>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+</channel>
+</rss>
