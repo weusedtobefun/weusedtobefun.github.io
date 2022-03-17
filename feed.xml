@@ -18,7 +18,7 @@
 <itunes:category text="Kids & Family"></itunes:category>
 <!-- <itunes:type>episodic</itunes:type> -->
 <itunes:explicit>no</itunes:explicit>
-<spotify:countryOfOrigin>us</spotify:countryOfOrigin>
+<!-- <spotify:countryOfOrigin>us</spotify:countryOfOrigin> -->
 
 <item>
 <title>We're back!</title>
