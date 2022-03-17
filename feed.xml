@@ -11,13 +11,13 @@
 <itunes:keywords>family</itunes:keywords>
 <description>A podcast about our family of four where we discuss parenting, life events, argue about stuff, and hear from our adorable children.</description>
 <itunes:owner>
-<itunes:name>Levi and Amy</itunes:name>
-<itunes:email>levi.j.elston@gmail.com</itunes:email>
+	<itunes:name>Levi and Amy</itunes:name>
+	<itunes:email>levi.j.elston@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:image href="https://weusedtobefun.github.io/WeUsedToBeFun_logo_large.png"/>
-<itunes:category text="Kids &amp; Family"></itunes:category>
-<itunes:type>episodic</itunes:type>
-
+<itunes:category text="Kids & Family"></itunes:category>
+<!-- <itunes:type>episodic</itunes:type> -->
+<itunes:explicit>no</itunes:explicit>
 <spotify:countryOfOrigin>us</spotify:countryOfOrigin>
 
 <item>
