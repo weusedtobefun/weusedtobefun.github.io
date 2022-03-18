@@ -3,7 +3,7 @@ A podcast about our family of four where we discuss parenting, life events, argu
 Link to website and listen directly [here](https://weusedtobefun.github.io/).
 
 
-[RSS feed](https://weusedtobefun.github.io/).
+[RSS feed](https://weusedtobefun.github.io/podcast.rss).
 
 
 # Podcast Pages
