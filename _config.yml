@@ -5,6 +5,8 @@ email: levi.j.elston@gmail.com
 lang: en-us
 copyright: "&#xA9; 2019"
 logo: /assets/img/WeUsedToBeFun_logo.png
+rss_feed: /podcast.rss
+twitter_handle: weusedtobefun
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
