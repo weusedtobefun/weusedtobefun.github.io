@@ -7,6 +7,9 @@ copyright: "&#xA9; 2019"
 logo: /assets/img/WeUsedToBeFun_logo.png
 rss_feed: /podcast.rss
 twitter_url: https://www.twitter.com/weusedtobefun
+apple_url: https://podcasts.apple.com/us/podcast/we-used-to-be-fun/id1451681576
+google_url: https://podcasts.google.com/feed/aHR0cHM6Ly93ZXVzZWR0b2JlZnVuLnBvZGJlYW4uY29tL2ZlZWQueG1s?sa=X&ved=2ahUKEwjI97iy39L2AhWjgokEHQ0zDV4Q9sEGegQIARAC
+spotify_url: https://podcasters.spotify.com/podcast/3dzxUTWxRNKVLWKiJVt6Bi/overview
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
